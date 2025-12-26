@@ -1,5 +1,8 @@
 class SI:
-    g_mainWindow = None
-    g_bookInfoModel = None
-    g_userInfoModel = None
-    g_userId = None
+    mainWindow = None
+    userModel = None
+    vehicleModel = None
+    driverModel = None
+    transportTaskModel = None
+    accidentModel = None
+    userId = None
